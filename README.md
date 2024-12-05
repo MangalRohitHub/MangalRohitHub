@@ -21,7 +21,7 @@
 
 - 📫 How to reach me 📧 **rohitmangal841@gmail.com**
 
-- 📄 Know about my experiences <a href="https://d5ohkitzini5f.cloudfront.net/Rohit-mangal-FlowCV-Resume-20240316.pdf" download="Gautam_Kumar_Resume" target="_blank">**📄GET RESUME⬇️**</a>
+- 📄 Know about my experiences <a href="https://d5ohkitzini5f.cloudfront.net/Rohit-mangal-CV.pdf" download="Gautam_Kumar_Resume" target="_blank">**📄GET RESUME⬇️**</a>
 - 💼 See my portfolio <a href="https://mangalrohitportfolio.netlify.app/" target="blank">**👤Rohit**</a> 
 
 # 🌐 Connect with me:
